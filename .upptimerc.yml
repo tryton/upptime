@@ -4,7 +4,32 @@ repo: upptime
 sites:
   - name: Tryton
     url: https://www.tryton.org
-    icon: https://cdn.tryton.org/static/images/favicon.ico
+    icon: https://downloads-cdn.tryton.org/images/logo.svg
+  - name: Discuss
+    url: https://discuss.tryton.org
+    icon: https://downloads-cdn.tryton.org/images/logo-discuss.svg
+  - name: Demo
+    url: https://demo.tryton.org
+  - name: Weblate
+    url: https://translate.tryton.org
+  - name: DNS 1
+    check: "tcp-ping"
+    url: moretus.b2ck.com
+    port: 53
+  - name: DNS 2
+    check: "tcp-ping"
+    url: thales.b2ck.com
+    port: 53
+  - name: SMTP
+    check: "tcp-ping"
+    url: mx.tryton.org
+    port: 22
+  - name: POP
+    check: "tcp-ping"
+    url: pop.tryton.org
+    port: 995
+  - name: Foundation's Tryton
+    url: https://foundation.tryton.org:9000/
 
 status-website:
   cname: status.tryton.org
