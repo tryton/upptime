@@ -22,19 +22,19 @@
     "url": "https://discuss.tryton.org",
     "icon": "https://downloads-cdn.tryton.org/images/logo-discuss.svg",
     "slug": "discuss",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 776,
-    "timeDay": 863,
-    "timeWeek": 776,
-    "timeMonth": 776,
-    "timeYear": 776,
+    "status": "up",
+    "uptime": "98.91%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
+    "time": 813,
+    "timeDay": 895,
+    "timeWeek": 813,
+    "timeMonth": 813,
+    "timeYear": 813,
     "dailyMinutesDown": {
-      "2024-01-09": 0
+      "2024-01-09": 29
     }
   },
   {
