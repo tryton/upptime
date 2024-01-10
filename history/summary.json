@@ -42,19 +42,19 @@
     "url": "https://demo.tryton.org",
     "icon": "https://icons.duckduckgo.com/ip3/demo.tryton.org.ico",
     "slug": "demo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1282,
-    "timeDay": 1052,
-    "timeWeek": 1282,
-    "timeMonth": 1282,
-    "timeYear": 1282,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 1229,
+    "timeDay": 970,
+    "timeWeek": 1229,
+    "timeMonth": 1229,
+    "timeYear": 1229,
     "dailyMinutesDown": {
-      "2024-01-10": 0
+      "2024-01-10": 8
     }
   },
   {
