@@ -5,18 +5,18 @@
     "icon": "https://downloads-cdn.tryton.org/images/logo.svg",
     "slug": "tryton",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.81%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 967,
     "timeDay": 849,
     "timeWeek": 967,
     "timeMonth": 967,
     "timeYear": 967,
     "dailyMinutesDown": {
-      "2024-01-14": 0
+      "2024-01-14": 18
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://translate.tryton.org",
     "icon": "https://icons.duckduckgo.com/ip3/translate.tryton.org.ico",
     "slug": "weblate",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 889,
-    "timeDay": 820,
-    "timeWeek": 889,
-    "timeMonth": 889,
-    "timeYear": 889,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 898,
+    "timeDay": 871,
+    "timeWeek": 898,
+    "timeMonth": 898,
+    "timeYear": 898,
     "dailyMinutesDown": {
-      "2024-01-14": 0
+      "2024-01-14": 18
     }
   },
   {
