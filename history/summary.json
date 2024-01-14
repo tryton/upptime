@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.tryton.org.ico",
     "slug": "demo",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1250,
     "timeDay": 1341,
     "timeWeek": 1250,
     "timeMonth": 1250,
     "timeYear": 1250,
-    "dailyMinutesDown": {
-      "2024-01-13": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Weblate",
