@@ -6,7 +6,7 @@ sites:
     url: https://www.tryton.org
     icon: https://downloads-cdn.tryton.org/images/logo.svg
   - name: Discuss
-    url: https://discuss.tryton.org
+    url: https://discuss.tryton.org/srv/status
     icon: https://downloads-cdn.tryton.org/images/logo-discuss.svg
   - name: Demo
     url: https://demo.tryton.org
