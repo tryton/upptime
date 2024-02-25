@@ -49,12 +49,12 @@
     "slug": "demo",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.81%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.92%",
     "time": 1380,
-    "timeDay": 1389,
+    "timeDay": 1391,
     "timeWeek": 1284,
     "timeMonth": 1376,
     "timeYear": 1380,
@@ -107,9 +107,9 @@
     "url": "thales.b2ck.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -118,7 +118,9 @@
     "timeWeek": 102,
     "timeMonth": 109,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-25": 0
+    }
   },
   {
     "name": "SMTP",
