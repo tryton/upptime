@@ -4,9 +4,9 @@
     "url": "https://www.tryton.org",
     "icon": "https://downloads-cdn.tryton.org/images/logo.svg",
     "slug": "tryton",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -16,6 +16,7 @@
     "timeMonth": 929,
     "timeYear": 952,
     "dailyMinutesDown": {
+      "2024-03-03": 0,
       "2024-01-14": 63
     }
   },
@@ -69,18 +70,19 @@
     "url": "https://translate.tryton.org",
     "icon": "https://icons.duckduckgo.com/ip3/translate.tryton.org.ico",
     "slug": "weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 798,
-    "timeDay": 726,
-    "timeWeek": 820,
-    "timeMonth": 760,
-    "timeYear": 798,
+    "time": 793,
+    "timeDay": 616,
+    "timeWeek": 780,
+    "timeMonth": 752,
+    "timeYear": 793,
     "dailyMinutesDown": {
+      "2024-03-03": 0,
       "2024-01-14": 18
     }
   },
