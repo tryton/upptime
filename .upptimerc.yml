@@ -12,6 +12,8 @@ sites:
     url: https://demo.tryton.org
   - name: Weblate
     url: https://translate.tryton.org
+  - name: Documentation
+    url: https://docs-src.tryton.org
   - name: DNS 1
     check: "tcp-ping"
     url: moretus.b2ck.com
