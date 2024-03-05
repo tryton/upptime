@@ -89,19 +89,19 @@
     "url": "https://docs-src.tryton.org",
     "icon": "https://icons.duckduckgo.com/ip3/docs-src.tryton.org.ico",
     "slug": "documentation",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 988,
-    "timeDay": 988,
-    "timeWeek": 988,
-    "timeMonth": 988,
-    "timeYear": 988,
+    "status": "up",
+    "uptime": "97.62%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "97.62%",
+    "time": 947,
+    "timeDay": 947,
+    "timeWeek": 947,
+    "timeMonth": 947,
+    "timeYear": 947,
     "dailyMinutesDown": {
-      "2024-03-05": 0
+      "2024-03-05": 16
     }
   },
   {
