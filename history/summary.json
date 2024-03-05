@@ -89,18 +89,20 @@
     "url": "https://docs-src.tryton.org",
     "icon": "https://icons.duckduckgo.com/ip3/docs-src.tryton.org.ico",
     "slug": "documentation",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 851,
-    "timeDay": 851,
-    "timeWeek": 851,
-    "timeMonth": 851,
-    "timeYear": 851,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 988,
+    "timeDay": 988,
+    "timeWeek": 988,
+    "timeMonth": 988,
+    "timeYear": 988,
+    "dailyMinutesDown": {
+      "2024-03-05": 0
+    }
   },
   {
     "name": "DNS 1",
