@@ -13,7 +13,7 @@
     "time": 960,
     "timeDay": 862,
     "timeWeek": 922,
-    "timeMonth": 1008,
+    "timeMonth": 1013,
     "timeYear": 960,
     "dailyMinutesDown": {
       "2024-04-07": 16,
@@ -35,7 +35,7 @@
     "time": 706,
     "timeDay": 393,
     "timeWeek": 510,
-    "timeMonth": 530,
+    "timeMonth": 532,
     "timeYear": 706,
     "dailyMinutesDown": {
       "2024-04-30": 20,
@@ -52,18 +52,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.tryton.org.ico",
     "slug": "demo",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.57%",
+    "uptime": "99.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.58%",
     "time": 1395,
     "timeDay": 1361,
     "timeWeek": 1451,
-    "timeMonth": 1435,
+    "timeMonth": 1443,
     "timeYear": 1395,
     "dailyMinutesDown": {
-      "2024-04-30": 8,
       "2024-04-07": 16,
       "2024-04-04": 17,
       "2024-03-31": 16,
@@ -88,7 +87,7 @@
     "time": 810,
     "timeDay": 673,
     "timeWeek": 782,
-    "timeMonth": 844,
+    "timeMonth": 846,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2024-04-07": 16,
@@ -110,7 +109,7 @@
     "time": 880,
     "timeDay": 850,
     "timeWeek": 917,
-    "timeMonth": 918,
+    "timeMonth": 921,
     "timeYear": 880,
     "dailyMinutesDown": {
       "2024-03-05": 16
@@ -130,7 +129,7 @@
     "time": 112,
     "timeDay": 86,
     "timeWeek": 115,
-    "timeMonth": 121,
+    "timeMonth": 122,
     "timeYear": 112,
     "dailyMinutesDown": {}
   },
@@ -148,7 +147,7 @@
     "time": 112,
     "timeDay": 86,
     "timeWeek": 116,
-    "timeMonth": 121,
+    "timeMonth": 122,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2024-03-24": 16
@@ -168,7 +167,7 @@
     "time": 112,
     "timeDay": 86,
     "timeWeek": 112,
-    "timeMonth": 120,
+    "timeMonth": 121,
     "timeYear": 112,
     "dailyMinutesDown": {}
   },
@@ -186,7 +185,7 @@
     "time": 112,
     "timeDay": 86,
     "timeWeek": 115,
-    "timeMonth": 120,
+    "timeMonth": 122,
     "timeYear": 112,
     "dailyMinutesDown": {}
   },
@@ -204,7 +203,7 @@
     "time": 584,
     "timeDay": 571,
     "timeWeek": 609,
-    "timeMonth": 607,
+    "timeMonth": 611,
     "timeYear": 584,
     "dailyMinutesDown": {}
   }
