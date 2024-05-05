@@ -1,7 +1,7 @@
 url: https://translate.tryton.org
-status: up
-code: 200
-responseTime: 782
-lastUpdated: 2024-05-04T23:08:13.561Z
+status: down
+code: 502
+responseTime: 943
+lastUpdated: 2024-05-05T08:37:16.151Z
 startTime: 2024-01-07T16:28:36.740Z
 generator: Upptime <https://github.com/upptime/upptime>
