@@ -25,7 +25,7 @@ sites:
   - name: SMTP
     check: "tcp-ping"
     url: mx.tryton.org
-    port: 22
+    port: 25
   - name: POP
     check: "tcp-ping"
     url: pop.tryton.org
