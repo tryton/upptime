@@ -1,7 +1,7 @@
 url: https://foundation.tryton.org:9000/
-status: up
-code: 200
-responseTime: 624
-lastUpdated: 2024-08-03T23:09:34.422Z
+status: down
+code: 502
+responseTime: 502
+lastUpdated: 2024-08-04T08:46:36.198Z
 startTime: 2024-01-07T16:28:42.088Z
 generator: Upptime <https://github.com/upptime/upptime>
