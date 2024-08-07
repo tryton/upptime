@@ -55,8 +55,8 @@
     "slug": "demo",
     "status": "up",
     "uptime": "98.05%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "78.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "79.46%",
     "uptimeMonth": "90.26%",
     "uptimeYear": "98.05%",
     "time": 1724,
@@ -65,7 +65,6 @@
     "timeMonth": 2985,
     "timeYear": 1724,
     "dailyMinutesDown": {
-      "2024-08-06": 2,
       "2024-08-04": 508,
       "2024-08-03": 537,
       "2024-08-02": 92,
