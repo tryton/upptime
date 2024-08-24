@@ -13,7 +13,7 @@
     "time": 978,
     "timeDay": 889,
     "timeWeek": 800,
-    "timeMonth": 987,
+    "timeMonth": 978,
     "timeYear": 978,
     "dailyMinutesDown": {
       "2024-06-03": 63,
@@ -36,7 +36,7 @@
     "time": 611,
     "timeDay": 526,
     "timeWeek": 517,
-    "timeMonth": 539,
+    "timeMonth": 533,
     "timeYear": 611,
     "dailyMinutesDown": {
       "2024-06-29": 15,
@@ -53,19 +53,19 @@
     "url": "https://demo.tryton.org",
     "icon": "https://icons.duckduckgo.com/ip3/demo.tryton.org.ico",
     "slug": "demo",
-    "status": "down",
+    "status": "up",
     "uptime": "97.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "95.00%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "94.84%",
     "uptimeMonth": "90.39%",
     "uptimeYear": "97.91%",
-    "time": 1745,
-    "timeDay": 1297,
-    "timeWeek": 1406,
-    "timeMonth": 2532,
-    "timeYear": 1745,
+    "time": 1744,
+    "timeDay": 1236,
+    "timeWeek": 1388,
+    "timeMonth": 2521,
+    "timeYear": 1744,
     "dailyMinutesDown": {
-      "2024-08-24": 0,
+      "2024-08-24": 16,
       "2024-08-22": 452,
       "2024-08-21": 53,
       "2024-08-09": 406,
@@ -118,7 +118,7 @@
     "time": 841,
     "timeDay": 668,
     "timeWeek": 876,
-    "timeMonth": 859,
+    "timeMonth": 855,
     "timeYear": 841,
     "dailyMinutesDown": {
       "2024-08-20": 463,
@@ -145,7 +145,7 @@
     "time": 871,
     "timeDay": 726,
     "timeWeek": 712,
-    "timeMonth": 846,
+    "timeMonth": 832,
     "timeYear": 871,
     "dailyMinutesDown": {
       "2024-03-05": 16
@@ -165,7 +165,7 @@
     "time": 112,
     "timeDay": 82,
     "timeWeek": 98,
-    "timeMonth": 113,
+    "timeMonth": 112,
     "timeYear": 112,
     "dailyMinutesDown": {}
   },
@@ -183,7 +183,7 @@
     "time": 112,
     "timeDay": 82,
     "timeWeek": 98,
-    "timeMonth": 114,
+    "timeMonth": 113,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2024-05-19": 16,
@@ -204,7 +204,7 @@
     "time": 112,
     "timeDay": 83,
     "timeWeek": 98,
-    "timeMonth": 113,
+    "timeMonth": 112,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2024-07-23": 385,
@@ -228,7 +228,7 @@
     "time": 112,
     "timeDay": 83,
     "timeWeek": 98,
-    "timeMonth": 114,
+    "timeMonth": 113,
     "timeYear": 112,
     "dailyMinutesDown": {}
   },
@@ -246,7 +246,7 @@
     "time": 604,
     "timeDay": 606,
     "timeWeek": 590,
-    "timeMonth": 605,
+    "timeMonth": 604,
     "timeYear": 604,
     "dailyMinutesDown": {}
   }
