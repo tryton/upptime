@@ -67,7 +67,7 @@
     "timeDay": 1792,
     "timeWeek": 1560,
     "timeMonth": 1451,
-    "timeYear": 1635,
+    "timeYear": 1636,
     "dailyMinutesDown": {
       "2024-12-26": 75,
       "2024-12-08": 100,
@@ -143,19 +143,19 @@
     "url": "https://translate.tryton.org",
     "icon": "https://icons.duckduckgo.com/ip3/translate.tryton.org.ico",
     "slug": "weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.23%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.39%",
+    "uptimeYear": "99.24%",
     "time": 839,
     "timeDay": 916,
     "timeWeek": 953,
     "timeMonth": 848,
     "timeYear": 839,
     "dailyMinutesDown": {
-      "2025-01-07": 6,
+      "2025-01-07": 0,
       "2025-01-05": 71,
       "2024-12-25": 44,
       "2024-12-21": 150,
@@ -296,7 +296,7 @@
     "timeDay": 632,
     "timeWeek": 624,
     "timeMonth": 589,
-    "timeYear": 610,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2024-10-13": 87
     }
