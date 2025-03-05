@@ -56,9 +56,9 @@
     "slug": "demo",
     "status": "up",
     "uptime": "98.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "97.70%",
     "time": 1625,
     "timeDay": 1453,
@@ -66,7 +66,6 @@
     "timeMonth": 1583,
     "timeYear": 1658,
     "dailyMinutesDown": {
-      "2025-03-04": 8,
       "2025-02-28": 88,
       "2025-02-02": 53,
       "2025-02-01": 70,
@@ -200,8 +199,7 @@
     "timeMonth": 958,
     "timeYear": 890,
     "dailyMinutesDown": {
-      "2024-10-13": 91,
-      "2024-03-05": 16
+      "2024-10-13": 91
     }
   },
   {
