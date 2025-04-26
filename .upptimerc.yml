@@ -14,6 +14,8 @@ sites:
     url: https://translate.tryton.org
   - name: Documentation
     url: https://docs-src.tryton.org
+    headers:
+      - "X-Pull: $DOCS_SECRET"
   - name: DNS 1
     check: "tcp-ping"
     url: moretus.b2ck.com
