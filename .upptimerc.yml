@@ -14,31 +14,31 @@ sites:
     url: https://demo7.6.tryton.org
     method: POST
     headers:
-      - "Content-Type": application/json
+      - "Content-Type: application/json"
     body: '{"id": 0, "method": "common.db.list", "params": []}'
   - name: Demo 7.4
     url: https://demo7.4.tryton.org
     method: POST
     headers:
-      - "Content-Type": application/json
+      - "Content-Type: application/json"
     body: '{"id": 0, "method": "common.db.list", "params": []}'
   - name: Demo 7.2
     url: https://demo7.2.tryton.org
     method: POST
     headers:
-      - "Content-Type": application/json
+      - "Content-Type: application/json"
     body: '{"id": 0, "method": "common.db.list", "params": []}'
   - name: Demo 7.0
     url: https://demo7.0.tryton.org
     method: POST
     headers:
-      - "Content-Type": application/json
+      - "Content-Type: application/json"
     body: '{"id": 0, "method": "common.db.list", "params": []}'
   - name: Demo 6.0
     url: https://demo6.0.tryton.org
     method: POST
     headers:
-      - "Content-Type": application/json
+      - "Content-Type: application/json"
     body: '{"id": 0, "method": "common.db.list", "params": []}'
   - name: Weblate
     url: https://translate.tryton.org
@@ -66,7 +66,7 @@ sites:
     url: https://foundation.tryton.org:9000/
     method: POST
     headers:
-      - "Content-Type": application/json
+      - "Content-Type: application/json"
     body: '{"id": 0, "method": "common.db.list", "params": []}'
 
 status-website:
