@@ -1,7 +1,7 @@
 url: https://demo7.0.tryton.org
-status: up
-code: 200
-responseTime: 771
-lastUpdated: 2025-05-21T23:11:02.810Z
+status: down
+code: 502
+responseTime: 858
+lastUpdated: 2025-05-22T22:38:57.861Z
 startTime: 2025-05-11T10:02:55.759Z
 generator: Upptime <https://github.com/upptime/upptime>
