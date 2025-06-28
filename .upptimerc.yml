@@ -22,12 +22,6 @@ sites:
     headers:
       - "Content-Type: application/json"
     body: '{"id": 0, "method": "common.db.list", "params": []}'
-  - name: Demo 7.2
-    url: https://demo7.2.tryton.org
-    method: POST
-    headers:
-      - "Content-Type: application/json"
-    body: '{"id": 0, "method": "common.db.list", "params": []}'
   - name: Demo 7.0
     url: https://demo7.0.tryton.org
     method: POST
