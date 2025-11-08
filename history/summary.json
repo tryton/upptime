@@ -149,8 +149,7 @@
       "2024-11-27": 86,
       "2024-11-26": 83,
       "2024-11-25": 51,
-      "2024-11-24": 6,
-      "2024-11-08": 382
+      "2024-11-24": 6
     }
   },
   {
@@ -271,9 +270,9 @@
     "slug": "demo-6-0",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.66%",
     "time": 1274,
     "timeDay": 1070,
@@ -281,7 +280,6 @@
     "timeMonth": 1118,
     "timeYear": 1274,
     "dailyMinutesDown": {
-      "2025-11-07": 7,
       "2025-10-25": 29,
       "2025-10-11": 56,
       "2025-09-27": 15,
@@ -431,7 +429,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
