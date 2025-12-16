@@ -10,6 +10,12 @@ sites:
     icon: https://downloads-cdn.tryton.org/images/logo-discuss.svg
   - name: Demo
     url: https://demo.tryton.org
+  - name: Demo 7.8
+    url: https://demo7.8.tryton.org
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{"id": 0, "method": "common.db.list", "params": []}'
   - name: Demo 7.6
     url: https://demo7.6.tryton.org
     method: POST
