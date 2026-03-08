@@ -1,7 +1,7 @@
 url: https://discuss.tryton.org/srv/status
-status: down
-code: 503
-responseTime: 1901
-lastUpdated: 2026-03-08T10:32:55.389Z
+status: up
+code: 200
+responseTime: 565
+lastUpdated: 2026-03-08T10:52:55.556Z
 startTime: 2024-01-07T16:28:34.327Z
 generator: Upptime <https://github.com/upptime/upptime>
