@@ -11,7 +11,7 @@ sites:
   - name: Demo
     url: https://demo.tryton.org
   - name: Demo 8.0
-    url: https://demo8.0.tryton.org
+    url: https://demo8.0.tryton.org/rpc/
     method: POST
     headers:
       - "Content-Type: application/json"
