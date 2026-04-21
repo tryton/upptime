@@ -123,19 +123,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo8.0.tryton.org.ico",
     "slug": "demo-8-0",
     "status": "up",
-    "uptime": "4.01%",
-    "uptimeDay": "4.01%",
-    "uptimeWeek": "4.01%",
-    "uptimeMonth": "4.01%",
-    "uptimeYear": "4.01%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 131,
     "timeDay": 131,
     "timeWeek": 131,
     "timeMonth": 131,
     "timeYear": 131,
-    "dailyMinutesDown": {
-      "2026-04-21": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Demo 7.8",
