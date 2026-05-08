@@ -1,7 +1,7 @@
 url: https://demo8.0.tryton.org/rpc/
-status: down
-code: 503
-responseTime: 30412
-lastUpdated: 2026-05-08T22:35:28.996Z
+status: up
+code: 200
+responseTime: 417
+lastUpdated: 2026-05-08T23:31:26.132Z
 startTime: 2026-04-21T07:55:02.665Z
 generator: Upptime <https://github.com/upptime/upptime>
