@@ -356,10 +356,10 @@
     "url": "thales.b2ck.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 114,
@@ -370,7 +370,8 @@
     "dailyMinutesDown": {
       "2026-01-04": 20,
       "2026-01-11": 18,
-      "2026-03-22": 52
+      "2026-03-22": 52,
+      "2026-08-16": 1
     }
   },
   {
@@ -417,11 +418,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/foundation.tryton.org.ico",
     "slug": "foundation-s-tryton",
     "status": "down",
-    "uptime": "95.64%",
+    "uptime": "95.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.69%",
+    "uptimeYear": "88.62%",
     "time": 1025,
     "timeDay": 446,
     "timeWeek": 342,
@@ -432,7 +433,7 @@
       "2026-03-29": 162,
       "2026-04-13": 23,
       "2026-04-16": 33,
-      "2026-08-16": 37,
+      "2026-08-16": 415,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
