@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 999,
     "timeDay": 1104,
-    "timeWeek": 963,
+    "timeWeek": 948,
     "timeMonth": 933,
     "timeYear": 1023,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeYear": "99.81%",
     "time": 531,
     "timeDay": 643,
-    "timeWeek": 549,
+    "timeWeek": 556,
     "timeMonth": 513,
     "timeYear": 541,
     "dailyMinutesDown": {
@@ -49,14 +49,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.tryton.org.ico",
     "slug": "demo",
     "status": "down",
-    "uptime": "99.20%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.09%",
+    "uptime": "99.19%",
+    "uptimeDay": "95.54%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.08%",
     "time": 1607,
     "timeDay": 757,
-    "timeWeek": 1354,
+    "timeWeek": 1306,
     "timeMonth": 1367,
     "timeYear": 1566,
     "dailyMinutesDown": {
@@ -99,7 +99,7 @@
       "2026-06-19": 12,
       "2026-06-18": 87,
       "2026-08-16": 16,
-      "2026-09-08": 1
+      "2026-09-08": 64
     }
   },
   {
@@ -108,14 +108,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo8.0.tryton.org.ico",
     "slug": "demo-8-0",
     "status": "down",
-    "uptime": "98.78%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "98.78%",
+    "uptime": "98.75%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "98.75%",
     "time": 2272,
     "timeDay": 370,
-    "timeWeek": 518,
+    "timeWeek": 432,
     "timeMonth": 460,
     "timeYear": 2272,
     "dailyMinutesDown": {
@@ -147,7 +147,7 @@
       "2026-08-16": 16,
       "2026-08-19": 19,
       "2026-08-23": 18,
-      "2026-09-08": 1
+      "2026-09-08": 64
     }
   },
   {
@@ -156,14 +156,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo7.8.tryton.org.ico",
     "slug": "demo-7-8",
     "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.50%",
+    "uptime": "99.49%",
+    "uptimeDay": "95.57%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.49%",
     "time": 1161,
     "timeDay": 429,
-    "timeWeek": 801,
+    "timeWeek": 714,
     "timeMonth": 802,
     "timeYear": 1161,
     "dailyMinutesDown": {
@@ -207,7 +207,7 @@
       "2026-08-16": 16,
       "2026-08-19": 19,
       "2026-08-23": 18,
-      "2026-09-08": 1
+      "2026-09-08": 64
     }
   },
   {
@@ -223,7 +223,7 @@
     "uptimeYear": "99.68%",
     "time": 1202,
     "timeDay": 20392,
-    "timeWeek": 3342,
+    "timeWeek": 3636,
     "timeMonth": 1452,
     "timeYear": 1303,
     "dailyMinutesDown": {
@@ -276,7 +276,7 @@
     "uptimeYear": "96.53%",
     "time": 1338,
     "timeDay": 851,
-    "timeWeek": 834,
+    "timeWeek": 793,
     "timeMonth": 851,
     "timeYear": 1531,
     "dailyMinutesDown": {
@@ -319,7 +319,7 @@
     "uptimeYear": "100.00%",
     "time": 928,
     "timeDay": 1202,
-    "timeWeek": 1089,
+    "timeWeek": 1052,
     "timeMonth": 1091,
     "timeYear": 945,
     "dailyMinutesDown": {}
@@ -337,7 +337,7 @@
     "uptimeYear": "100.00%",
     "time": 113,
     "timeDay": 126,
-    "timeWeek": 112,
+    "timeWeek": 108,
     "timeMonth": 114,
     "timeYear": 115,
     "dailyMinutesDown": {}
@@ -355,7 +355,7 @@
     "uptimeYear": "99.98%",
     "time": 114,
     "timeDay": 128,
-    "timeWeek": 112,
+    "timeWeek": 108,
     "timeMonth": 115,
     "timeYear": 117,
     "dailyMinutesDown": {
@@ -378,7 +378,7 @@
     "uptimeYear": "100.00%",
     "time": 113,
     "timeDay": 130,
-    "timeWeek": 112,
+    "timeWeek": 107,
     "timeMonth": 113,
     "timeYear": 115,
     "dailyMinutesDown": {}
@@ -396,7 +396,7 @@
     "uptimeYear": "100.00%",
     "time": 112,
     "timeDay": 128,
-    "timeWeek": 111,
+    "timeWeek": 107,
     "timeMonth": 113,
     "timeYear": 115,
     "dailyMinutesDown": {}
@@ -407,21 +407,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/foundation.tryton.org.ico",
     "slug": "foundation-s-tryton",
     "status": "down",
-    "uptime": "93.38%",
+    "uptime": "93.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.39%",
+    "uptimeYear": "82.38%",
     "time": 1007,
     "timeDay": 408,
-    "timeWeek": 338,
+    "timeWeek": 325,
     "timeMonth": 348,
     "timeYear": 1100,
     "dailyMinutesDown": {
       "2026-03-29": 162,
       "2026-04-13": 23,
       "2026-04-16": 33,
-      "2026-09-08": 51,
+      "2026-09-08": 113,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
