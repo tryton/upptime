@@ -57,7 +57,7 @@ sites:
     url: pop.tryton.org
     port: 995
   - name: Foundation's Tryton
-    url: https://foundation.tryton.org:9000/
+    url: https://foundation.tryton.org:9000/rpc/
     method: POST
     headers:
       - "Content-Type: application/json"
