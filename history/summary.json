@@ -393,10 +393,10 @@
     "url": "mx.tryton.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
@@ -404,7 +404,9 @@
     "timeWeek": 100,
     "timeMonth": 119,
     "timeYear": 116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-02": 1
+    }
   },
   {
     "name": "POP",
@@ -433,7 +435,7 @@
     "uptime": "90.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.39%",
+    "uptimeMonth": "85.92%",
     "uptimeYear": "74.57%",
     "time": 984,
     "timeDay": 718,
