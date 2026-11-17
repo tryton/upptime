@@ -402,23 +402,23 @@
     "url": "mx.tryton.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "97.34%",
-    "uptimeWeek": "92.28%",
-    "uptimeMonth": "95.89%",
-    "uptimeYear": "99.66%",
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "68.39%",
+    "uptimeWeek": "88.14%",
+    "uptimeMonth": "94.94%",
+    "uptimeYear": "99.58%",
     "time": 114,
-    "timeDay": 0,
-    "timeWeek": 127,
-    "timeMonth": 122,
+    "timeDay": 88,
+    "timeWeek": 123,
+    "timeMonth": 121,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2026-11-02": 589,
       "2026-11-05": 432,
       "2026-11-14": 431,
       "2026-11-15": 308,
-      "2026-11-17": 38
+      "2026-11-17": 455
     }
   },
   {
